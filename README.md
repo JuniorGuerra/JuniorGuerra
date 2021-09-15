@@ -1,17 +1,11 @@
-### Hi there 👋
 
----
-theme: gaia
-_class: lead
-backgroundColor: #000
-marp: true
-backgroundImage: url('https://marp.app/assets/hero-background.jpg')
----
 # Junior Guerra
 ![bg left:40% 80%](https://i.ibb.co/Vt45cmh/video.gif)
 
 # **summary**
 > Software Developer Backend
+
+> Efficient code reader and analyst, learn a lot and maintain excellent consistency when doing things.
 
 https://juniorgc.netlify.app/
 
