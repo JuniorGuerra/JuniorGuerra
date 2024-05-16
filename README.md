@@ -21,7 +21,7 @@ juniorguerrac17@gmail.com
  > Websocke🤔t, REST, API, CRUD, Design, Analisys💬
 
 - 🔭 I’m currently working on Golang
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Golang
 
 <!--
