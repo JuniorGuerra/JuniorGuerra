@@ -12,5 +12,5 @@ Skills: Go, Kubernetes, Web.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juniorguerrac17/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://junocode.pro)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGuerra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Juno's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunoCode&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGuerra&layout=donut&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Juno's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunoCode&layout=compat)](https://github.com/anuraghazra/github-readme-stats) -->
