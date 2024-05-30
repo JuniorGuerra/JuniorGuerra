@@ -1,38 +1,16 @@
+### Hi there 👋, my name is Junior Guerra
+#### Software developer | Golang | Java | web.
 
-# Junior Guerra
-<img src="https://i.ibb.co/Vt45cmh/video.gif" width="200">
+Skills: Go, Kubernetes, Web.
 
-# **summary**
-> Software Developer Backend
-
-> Efficient code reader and analyst, learn a lot and maintain excellent consistency when doing things.
-
-https://juniorgc.netlify.app/
-
-juniorguerrac17@gmail.com
-
----
-# think
- > I am a junior software developer in the process of growth, I focus on the development of microservices and agile software development, analysis and versatility in analysis.
-
-# Skills
- > Golang⚡, Html😄, Css, Js, python🤔, Java, VisualBasic
-
- > Websocke🤔t, REST, API, CRUD, Design, Analisys💬
-
-- 🔭 I’m currently working on Golang
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on Golang
-
-<!--
-**JuniorGuerra/JuniorGuerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- 🌱 I’m currently learning AI 
+- 💬 Ask me about Services, Web
+- 📫 How to reach me: juniorguerrac17@gmail.com 
 
 
--  I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JuniorGuerra)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juniorguerrac17/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://junocode.pro)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGuerra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Juno's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunoCode&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
