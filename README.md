@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Junior Guerra
-#### Software developer | Golang | Java | web.
+#### Software developer | Golang | Java | Backend | Web.
 
 Skills: Go, Kubernetes, Web.
 
-- 🌱 I’m currently learning AI 
-- 💬 Ask me about Services, Web
+- 🌱 I’m currently learning DevOps and SpringBoot
+- 💬 Ask me about Services, Backend, Web
 - 📫 How to reach me: juniorguerrac17@gmail.com 
 
 
