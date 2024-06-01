@@ -14,3 +14,5 @@ Skills: Go, Kubernetes, Web.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGuerra&layout=donut&hide=css,html,scss)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Juno's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunoCode&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=JuniorGuerra)
